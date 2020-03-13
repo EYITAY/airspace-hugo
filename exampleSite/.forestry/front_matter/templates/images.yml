@@ -12,6 +12,8 @@ fields:
   - type: text
     name: bg_image
     label: bg_image
+    showOnly:
+      field: enable
   - type: text
     name: title
     label: title
@@ -61,6 +63,7 @@ fields:
   - type: file
     name: bg_image
     label: bg_image
+    default: "/images/download (1)-2.jpeg"
   - type: text
     name: title
     label: title
