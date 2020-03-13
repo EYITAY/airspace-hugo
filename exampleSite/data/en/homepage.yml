@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/
+  bg_image: ''
   title: 'Virtual Reality  For Defense '
   content: Fighting the menace of violence against women with Virtual Reality technology.
   button:
