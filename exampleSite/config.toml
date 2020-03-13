@@ -24,6 +24,16 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "project"
+name = "Project"
+url = "https://vr4d.netlify.com/"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+url = "https://vr4d.netlify.com/"
+weight = 1
+[[menu.main]]
 URL = "pricing"
 name = "Pricing"
 parent = "Pages"
@@ -41,14 +51,6 @@ weight = 5
 URL = "blog"
 name = "Blog"
 weight = 4
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [params]
 author = "Themefisher"
 contact_form_action = "#"
