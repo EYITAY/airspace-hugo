@@ -12,3 +12,9 @@ fields:
   - type: text
     name: translation
     label: translation
+  - name: Background
+    type: file
+    config:
+      maxSize: '250'
+    default: "/images/download (1)-1.jpeg"
+    label: Image
