@@ -30,7 +30,7 @@ about:
     of different places, situations or environments, and can be used to teach awareness,
     build skills, and provide valuable experience to help when real life requires
     it.\n"
-  image: images/download.png
+  image: ''
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
