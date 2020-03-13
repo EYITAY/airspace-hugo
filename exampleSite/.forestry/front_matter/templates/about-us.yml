@@ -99,5 +99,3 @@ fields:
   - type: boolean
     name: enable
     label: enable
-pages:
-- exampleSite/data/en/homepage.yml
