@@ -158,3 +158,5 @@ fields:
     - type: textarea
       name: content
       label: content
+pages:
+- exampleSite/data/en/homepage.yml
