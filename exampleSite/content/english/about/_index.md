@@ -2,7 +2,6 @@
 title: About Our Company
 description: this is meta description
 bg_image: images/featue-bg.jpg
-draft: true
 
 ---
 n Jordan, we are committed to addressing gender-based violence through investment, research and learning, and collaboration with stakeholders around the world but the issue of 35% of women worldwide have experienced either physical and/or sexual intimate partner violence or non-partner sexual violence, In Nigeria, according to the United Nations Population Funds (UNPFA), 28% of Nigerian women aged 25-29 have experienced some form of physical violence since the age of 15.
