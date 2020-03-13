@@ -34,10 +34,6 @@ name = "FAQ"
 parent = "Pages"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 5
@@ -49,10 +45,6 @@ weight = 4
 URL = "service"
 name = "Service"
 weight = 3
-[[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
