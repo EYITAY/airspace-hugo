@@ -16,5 +16,5 @@ fields:
     type: file
     config:
       maxSize: '250'
-    default: "/images/download (1)-1.jpeg"
+    default: "/images/download-1.png"
     label: Image
