@@ -14,6 +14,7 @@ fields:
     label: bg_image
     showOnly:
       field: enable
+      value: true
   - type: text
     name: title
     label: title
