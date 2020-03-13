@@ -51,42 +51,6 @@ fields:
     name: image
     label: image
 - type: field_group
-  name: portfolio
-  label: portfolio
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: file
-    name: bg_image
-    label: bg_image
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: content
-    label: content
-  - type: field_group
-    name: button
-    label: button
-    fields:
-    - type: boolean
-      name: enable
-      label: enable
-    - type: text
-      name: label
-      label: label
-    - type: text
-      name: link
-      label: link
-- type: field_group
-  name: service
-  label: service
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-- type: field_group
   name: cta
   label: cta
   fields:
@@ -96,6 +60,7 @@ fields:
   - type: file
     name: bg_image
     label: bg_image
+    default: "/images/download (1)-1.jpeg"
   - type: text
     name: title
     label: title
@@ -115,45 +80,3 @@ fields:
     - type: text
       name: link
       label: link
-- type: field_group
-  name: funfacts
-  label: funfacts
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: description
-    label: description
-  - type: field_group_list
-    name: funfact_item
-    label: funfact_item
-    fields:
-    - type: text
-      name: icon
-      label: icon
-    - type: text
-      name: name
-      label: name
-    - type: text
-      name: count
-      label: count
-  - type: field_group_list
-    name: testimonial_slider
-    label: testimonial_slider
-    fields:
-    - type: text
-      name: name
-      label: name
-    - type: file
-      name: image
-      label: image
-    - type: text
-      name: designation
-      label: designation
-    - type: textarea
-      name: content
-      label: content
