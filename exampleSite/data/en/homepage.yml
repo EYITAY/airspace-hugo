@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Tell us your story
-    link: project
+    link: ''
 about:
   enable: true
   title: About Us
