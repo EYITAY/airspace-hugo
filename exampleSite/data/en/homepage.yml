@@ -58,7 +58,7 @@ portfolio:
 service:
   enable: true
 cta:
-  enable: false
+  enable: true
   bg_image: "/images/gbv.jpg"
   title: We prepare vulnerable women and girls for the challenges ahead!
   content: 'Adopting women and girls’ driven community cooperative, our targets beneficiaries
