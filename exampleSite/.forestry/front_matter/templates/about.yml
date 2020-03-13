@@ -91,5 +91,3 @@ fields:
     - type: text
       name: link
       label: link
-pages:
-- exampleSite/data/en/homepage.yml

@@ -34,6 +34,11 @@ about:
     it.\n"
   image: "/images/download (1).jpeg"
   about_image: "/images/download-1.png"
+  button:
+    enable: false
+    label: ''
+    link: ''
+  funfacts: []
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
@@ -108,3 +113,12 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
+features:
+  enable: false
+  title: ''
+  feature_item: []
+testimonial:
+  enable: false
+mission_vision:
+  enable: false
+  tabs: []
