@@ -2,11 +2,23 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: We strive to be the best and <br> make awesome work.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  title: We strive to gradually eradicate domestic violence against women and girls<br>
+    VR4D.
+  content: "n Jordan, we are committed to addressing gender-based violence through
+    investment, research and learning, and collaboration with stakeholders around
+    the world but the issue of 35% of women worldwide have experienced either physical
+    and/or sexual intimate partner violence or non-partner sexual violence, In Nigeria,
+    according to the United Nations Population Funds (UNPFA), 28% of Nigerian women
+    aged 25-29 have experienced some form of physical violence since the age of 15.\n\nBy
+    developing and conducting related training and educational activities for women,
+    and girls especially in the most remote areas to have the ability to create better
+    opportunities for themselves and others by participating in the Virtual Reality
+    Defence programs and activities. \n\nThe Virtual Reality defence training will
+    allow women to undertake a huge range of simulations, without the associated costs,
+    thus massively reducing training budgets.\n\nVR can put a trainee in any number
+    of different places, situations or environments, and can be used to teach awareness,
+    build skills, and provide valuable experience to help when real life requires
+    it.\n"
   button:
     enable: true
     label: Download Company Profile
