@@ -46,6 +46,12 @@ fields:
   - type: boolean
     name: enable
     label: enable
+  - name: about_image
+    type: file
+    config:
+      maxSize: 250
+    label: About Image
+    default: "/images/download-1.png"
   - type: text
     name: title
     label: title
