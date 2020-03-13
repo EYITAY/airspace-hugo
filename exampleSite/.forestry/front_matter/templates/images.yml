@@ -50,6 +50,7 @@ fields:
   - type: file
     name: image
     label: image
+    default: "/images/download-1.png"
 - type: field_group
   name: portfolio
   label: portfolio
