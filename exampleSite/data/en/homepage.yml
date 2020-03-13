@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/
   title: 'Virtual Reality  For Defense '
   content: Fighting the menace of violence against women with Virtual Reality technology.
   button:
@@ -30,7 +30,7 @@ about:
     of different places, situations or environments, and can be used to teach awareness,
     build skills, and provide valuable experience to help when real life requires
     it.\n"
-  image: download.png
+  image: images/download.png
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
