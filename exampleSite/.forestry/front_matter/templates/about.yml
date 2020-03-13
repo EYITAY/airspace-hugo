@@ -10,9 +10,6 @@ fields:
     name: enable
     label: enable
   - type: text
-    name: bg_image
-    label: bg_image
-  - type: text
     name: title
     label: title
   - type: text
@@ -31,6 +28,11 @@ fields:
     - type: text
       name: link
       label: link
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - type: field_group
   name: about
   label: about
@@ -47,9 +49,6 @@ fields:
   - type: textarea
     name: content
     label: content
-  - type: text
-    name: image
-    label: image
 - type: field_group
   name: cta
   label: cta
