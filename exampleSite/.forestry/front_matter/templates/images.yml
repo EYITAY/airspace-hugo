@@ -3,38 +3,6 @@ label: images
 hide_body: true
 fields:
 - type: field_group
-  name: banner
-  label: banner
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: bg_image
-    label: bg_image
-    showOnly:
-      field: enable
-      value: true
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: content
-    label: content
-  - type: field_group
-    name: button
-    label: button
-    fields:
-    - type: boolean
-      name: enable
-      label: enable
-    - type: text
-      name: label
-      label: label
-    - type: text
-      name: link
-      label: link
-- type: field_group
   name: about
   label: about
   fields:
@@ -101,6 +69,7 @@ fields:
   - type: file
     name: bg_image
     label: bg_image
+    default: "/images/download (1)-1.jpeg"
   - type: text
     name: title
     label: title
