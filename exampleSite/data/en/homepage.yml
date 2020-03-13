@@ -11,7 +11,7 @@ banner:
     image: "/images/gbv.jpg"
   background_image: "/images/download (1)-1.jpeg"
 about:
-  enable: true
+  enable: false
   title: About Us
   description: 'VR4D -Promote protection of women and girls from violence, abuse,
     and exploitation
