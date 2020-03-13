@@ -51,7 +51,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: ''
   title: We prepare vulnerable women and girls for the challenges ahead!
   content: 'Adopting women and girls’ driven community cooperative, our targets beneficiaries
     - the rural women and young girls - will access education and training in the
