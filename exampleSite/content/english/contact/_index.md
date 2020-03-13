@@ -1,6 +1,6 @@
 ---
 title: Drop Us A Note
-description: this is meta description
+description: support@nectarhub.io
 bg_image: images/featue-bg.jpg
 
 ---
