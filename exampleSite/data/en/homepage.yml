@@ -52,10 +52,17 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: We prepare vulnerable women and girls for the challenges ahead!
+  content: 'Adopting women and girls’ driven community cooperative, our targets beneficiaries
+    - the rural women and young girls - will access education and training in the
+    area of self-defence using Virtual Reality technology.<br>  In partnership with
+    women groups uniting against gender-based violence and violence against women,
+    we will have access to more women that are our target beneficiaries. Partnering
+    with the coalition of secondary school counsellors, we will be able to identify
+    and reach out to young girls that have displayed a trait of emotional or physical
+    violence abuse at some point in their lives.
+
+'
   button:
     enable: true
     label: Tell Us Your Story
